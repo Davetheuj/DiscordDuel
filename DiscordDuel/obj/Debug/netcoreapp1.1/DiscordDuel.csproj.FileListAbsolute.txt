@@ -1,0 +1,17 @@
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\bin\Debug\netcoreapp1.1\DiscordDuel.deps.json
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\bin\Debug\netcoreapp1.1\DiscordDuel.runtimeconfig.json
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\bin\Debug\netcoreapp1.1\DiscordDuel.runtimeconfig.dev.json
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\bin\Debug\netcoreapp1.1\DiscordDuel.dll
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\bin\Debug\netcoreapp1.1\DiscordDuel.pdb
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\bin\Debug\netcoreapp1.1\MongoDB.Bson.dll
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\bin\Debug\netcoreapp1.1\MongoDB.Driver.Core.dll
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\bin\Debug\netcoreapp1.1\MongoDB.Driver.dll
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\bin\Debug\netcoreapp1.1\MongoDB.Driver.GridFS.dll
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\bin\Debug\netcoreapp1.1\MongoDB.Driver.Legacy.dll
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\obj\Debug\netcoreapp1.1\DiscordDuel.csproj.CoreCompileInputs.cache
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\obj\Debug\netcoreapp1.1\DiscordDuel.AssemblyInfoInputs.cache
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\obj\Debug\netcoreapp1.1\DiscordDuel.AssemblyInfo.cs
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\obj\Debug\netcoreapp1.1\DiscordDuel.csproj.CopyComplete
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\obj\Debug\netcoreapp1.1\DiscordDuel.dll
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\obj\Debug\netcoreapp1.1\DiscordDuel.pdb
+C:\Users\Davet_000\Desktop\DiscordDuel\DiscordDuel\obj\Debug\netcoreapp1.1\DiscordDuel.csprojAssemblyReference.cache
